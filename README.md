@@ -24,5 +24,4 @@
 <!--
 🔗 **Portfolio/Website:** [your-website.com](https://your-website.com)
 -->
-<iframe src="https://github.com/sponsors/herisetiawan00/button" title="Sponsor herisetiawan00" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2973235" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/herisetiawan.png" alt="Your Image Badge" />
