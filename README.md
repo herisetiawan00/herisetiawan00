@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Heri! 👋✨  
 
+🚀 **Flutter Developer | Aspiring Rustacean | Cybersecurity Enthusiast**  
+
+---
+
+### About Me  
+🌟 **Specialized in:** Dart & Flutter Development  
+🛠 **Currently working on:** [**Clack**](https://github.com/herisetiawan00/clack) – My first Rust project  
+🔐 **Exploring:** The fascinating world of Cybersecurity  
+
+---
+
+### What I’m Looking For  
+🤝 **Collaboration Opportunities:**  
+- Cutting-edge **Flutter projects**  
+- Innovative **Rust projects** (I’m eager to learn and contribute!)  
+
+---
+
+### Let’s Connect!  
+💬 I’d love to discuss ideas and collaborate on amazing projects. Feel free to reach out!  
+📫 **Email:** [hr.bltz1@gmail.com](mailto:hr.bltz1@gmail.com)  
 <!--
-**herisetiawan00/herisetiawan00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔗 **Portfolio/Website:** [your-website.com](https://your-website.com)
 -->
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2973235" style='border:none;'></iframe>
