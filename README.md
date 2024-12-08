@@ -24,4 +24,4 @@
 <!--
 🔗 **Portfolio/Website:** [your-website.com](https://your-website.com)
 -->
-<img src="https://tryhackme-badges.s3.amazonaws.com/herisetiawan.png" alt="TryHackMe Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/herisetiawan.pnga" alt="TryHackMe Badge" />
